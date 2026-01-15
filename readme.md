@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://pixabay.com/illustrations/artificial-intelligence-brain-think-4694502/" 
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" 
        alt="Computer Science and Software Engineering" 
        width="100%" />
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Ekta Kumari</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Software Engineer |AI ML enthusiast| Passionate Learner
