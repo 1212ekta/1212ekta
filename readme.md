@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" 
+  <img src="https://pixabay.com/illustrations/artificial-intelligence-brain-think-4694502/" 
        alt="Computer Science and Software Engineering" 
        width="100%" />
 </div>
