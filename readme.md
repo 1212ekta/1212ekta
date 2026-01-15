@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995" 
-       alt="AI Computer Science" 
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" 
+       alt="Computer Science and Software Engineering" 
        width="100%" />
 </div>
 
+
 <h1 align="center">Hi 👋, I'm Ekta Kumari</h1>
-<h3 align="center">B.Tech CSE Student | AI & ML Enthusiast | Passionate Learner</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer |AI ML enthusiast| Passionate Learner
+</h3>
 
 ---
 
@@ -100,12 +102,13 @@ My goal is to use technology to create **meaningful social and educational impac
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1212ekta&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1212ekta&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1212ekta&theme=tokyonight" />
 </p>
+
 
 ---
 
