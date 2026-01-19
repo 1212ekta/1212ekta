@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" 
        alt="Computer Science and Software Engineering" 
-       width="100%" />
+       width="50%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ekta Kumari</h1>
